@@ -179,7 +179,7 @@ p{
     left: 10%;
   }
 }*/
-@media(max-aspect-ratio: 4/3){
+/*@media(max-aspect-ratio: 4/3){
   h1{
     font-size: 60px;
   }
@@ -220,6 +220,7 @@ p{
     display: none;
   }
 }
+*/
 /*@media(max-width: 480px){
   h1{
     font-size: 40px;
