@@ -235,6 +235,12 @@ p{
   }
 } */
 @media (max-aspect-ratio: 11/16){
+  h1{
+    font-size: 150px;
+  }
+  p{
+    font-size:40px;
+  }
   .menu{
     display: block;
     float: right;
