@@ -239,6 +239,7 @@ p{
     font-size: 135px;
   }
   p{
+    margin-top: 10%(
     font-size:37px;
   }
   .menu{
@@ -276,5 +277,6 @@ p{
   .but2{
     font-size: 37px;
     padding: 60px 90px;
+    margin-top: 15%;
   }
 }
