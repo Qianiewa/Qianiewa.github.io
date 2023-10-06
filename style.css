@@ -295,4 +295,104 @@ p{
   .butdop{
     display: none;
   }
+  @media (device-aspect-ratio: 9/16){
+  .menu{
+    display: block;
+    float: right;
+    margin-top: 5%;
+    margin-right: 5%;
+    background: rgba(255, 0, 0, 0.0);
+    border: 0px;
+  }
+  .main{
+    flex-direction: column;
+  }
+  .main1{
+    width: 100vw;
+    height: 100vh;
+  }
+  .main2{
+    width: 100vw;
+    height: 100vh;
+  }
+  .but1{
+    display: none;
+  }
+  .ooo{
+    display: none;
+
+  }
+  .ooo1{
+    display: none;
+  }
+  h1{
+    margin-bottom: 10%;
+    font-size: 60px;
+
+  }
+  p{
+    font-size: 15px;
+    margin-bottom:10%;
+    text-align: justify;
+    margin-right: 10%;
+  }
+  .but1{
+    font-size: 15px;
+  }
+  .but2{
+    font-size: 15px;
+  }
+  .butdop{
+    display: none;
+  }
+  @media (device-aspect-ratio: 9/19){
+  .menu{
+    display: block;
+    float: right;
+    margin-top: 5%;
+    margin-right: 5%;
+    background: rgba(255, 0, 0, 0.0);
+    border: 0px;
+  }
+  .main{
+    flex-direction: column;
+  }
+  .main1{
+    width: 100vw;
+    height: 100vh;
+  }
+  .main2{
+    width: 100vw;
+    height: 100vh;
+  }
+  .but1{
+    display: none;
+  }
+  .ooo{
+    display: none;
+
+  }
+  .ooo1{
+    display: none;
+  }
+  h1{
+    margin-bottom: 10%;
+    font-size: 60px;
+
+  }
+  p{
+    font-size: 15px;
+    margin-bottom:10%;
+    text-align: justify;
+    margin-right: 10%;
+  }
+  .but1{
+    font-size: 15px;
+  }
+  .but2{
+    font-size: 15px;
+  }
+  .butdop{
+    display: none;
+  }
 }
