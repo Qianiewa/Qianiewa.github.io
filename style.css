@@ -236,10 +236,10 @@ p{
 } */
 @media (max-aspect-ratio: 11/16){
   h1{
-    font-size: 150px;
+    font-size: 135px;
   }
   p{
-    font-size:40px;
+    font-size:37px;
   }
   .menu{
     display: block;
@@ -272,5 +272,9 @@ p{
   }
   .butdop{
     display: none;
+  }
+  .but2{
+    font-size: 37px;
+    padding: 60px 90px;
   }
 }
