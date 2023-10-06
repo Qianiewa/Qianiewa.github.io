@@ -206,23 +206,12 @@ p{
   }
 }
 @media(max-aspect-ratio: 5/3){
-  h1{
-    font-size: 60px;
-  }
-  p{
-    font-size: 20px;
-  }
   .ooo{
     display: none;
 
   }
   .ooo1{
     display: none;
-  }
-  .but2{
-    font-size: 13px;
-    margin-bottom: 3%;
-    padding: 20px 35px;
   }
   p{
     margin-bottom: 3%;
@@ -274,17 +263,6 @@ p{
   }
   .ooo1{
     display: none;
-  }
-  h1{
-    margin-bottom: 10%;
-    font-size: 60px;
-
-  }
-  p{
-    font-size: 15px;
-    margin-bottom:10%;
-    text-align: justify;
-    margin-right: 10%;
   }
   .but1{
     font-size: 15px;
