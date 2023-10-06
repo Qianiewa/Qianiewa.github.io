@@ -8,14 +8,14 @@
 .main1{
   width: 50vw;
   height: 100vh;
-  background: url('PICTURES/fon1.png') lightgray 50% / cover no-repeat;;
+  background: url('fon1.png') lightgray 50% / cover no-repeat;;
   margin: 0px;
 
 }
 .main2{
   width: 50vw;
   height: 100vh;
-  background: url('PICTURES/fon2.png') lightgray 50% / cover no-repeat;
+  background: url('fon2.png') lightgray 50% / cover no-repeat;
   margin: 0px;
   background-color: black;
   color: white;
