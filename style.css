@@ -246,6 +246,13 @@ p{
   }
 } */
 @media (max-aspect-ratio: 11/16){
+  h1{
+    font-size: 135px;
+  }
+  p{
+    margin-top: 10%(
+    font-size:37px;
+  }
   .menu{
     display: block;
     float: right;
@@ -275,24 +282,102 @@ p{
   .ooo1{
     display: none;
   }
-  h1{
-    margin-bottom: 10%;
-    font-size: 60px;
-
-  }
-  p{
-    font-size: 15px;
-    margin-bottom:10%;
-    text-align: justify;
-    margin-right: 10%;
-  }
-  .but1{
-    font-size: 15px;
+  .butdop{
+    display: none;
   }
   .but2{
-    font-size: 15px;
+    font-size: 37px;
+    padding: 60px 90px;
+    margin-top: 15%;
+  }
+  @media (max-aspect-ratio: 9/19){
+  h1{
+    font-size: 135px;
+  }
+  p{
+    margin-top: 10%(
+    font-size:37px;
+  }
+  .menu{
+    display: block;
+    float: right;
+    margin-top: 5%;
+    margin-right: 5%;
+    background: rgba(255, 0, 0, 0.0);
+    border: 0px;
+  }
+  .main{
+    flex-direction: column;
+  }
+  .main1{
+    width: 100vw;
+    height: 100vh;
+  }
+  .main2{
+    width: 100vw;
+    height: 100vh;
+  }
+  .but1{
+    display: none;
+  }
+  .ooo{
+    display: none;
+
+  }
+  .ooo1{
+    display: none;
   }
   .butdop{
     display: none;
   }
-}
+  .but2{
+    font-size: 37px;
+    padding: 60px 90px;
+    margin-top: 15%;
+  }
+  @media (disply-aspect-ratio: 9/16){
+  h1{
+    font-size: 135px;
+  }
+  p{
+    margin-top: 10%(
+    font-size:37px;
+  }
+  .menu{
+    display: block;
+    float: right;
+    margin-top: 5%;
+    margin-right: 5%;
+    background: rgba(255, 0, 0, 0.0);
+    border: 0px;
+  }
+  .main{
+    flex-direction: column;
+  }
+  .main1{
+    width: 100vw;
+    height: 100vh;
+  }
+  .main2{
+    width: 100vw;
+    height: 100vh;
+  }
+  .but1{
+    display: none;
+  }
+  .ooo{
+    display: none;
+
+  }
+  .ooo1{
+    display: none;
+  }
+  .butdop{
+    display: none;
+  }
+  .but2{
+    font-size: 37px;
+    padding: 60px 90px;
+    margin-top: 15%;
+  }
+
