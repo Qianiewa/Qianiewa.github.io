@@ -275,6 +275,9 @@ h3{
     margin-left: 0px;
     margin-right: 0px;
   }
+  hide01{
+    font-size: 200%;
+  }    
 }
 rect{
   fill: white;
