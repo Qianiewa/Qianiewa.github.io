@@ -260,7 +260,7 @@ h3{
     font-size: 140%;
   }
   .w1{
-    font-size: 140%;
+    font-size: 200%;
   }
   .main{
     width: 100%;
@@ -274,10 +274,7 @@ h3{
   .nomarg{
     margin-left: 0px;
     margin-right: 0px;
-  }
-  hide01{
-    font-size: 200%;
-  }    
+  }   
 }
 rect{
   fill: white;
